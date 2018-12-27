@@ -8,7 +8,9 @@ If you would like to make similar melody player of christmas songs, given below 
    -> open your arduino, click sketch -> Include Library -> Add Zip, and then locate your file zip file.
 3) Now you might have to make a minor change in your code, depending on the address of you I2C, mine is 0x27. You can determine 
    yours by clicking ->Tools -> serial monitor 
- 4) Once you are done following the above steps, add the code into your arduino.
+ 4) Once you are done following the above steps, add the code into your arduino IDE.
  5) Make the connection by following the schematic
  6) Hit upload, press any switch on the board and then enjoy your melodies.
  
+NOTE: there are two schematics, one is for melodies named as "christmas1" and otherone is for displaying names of the melodies on screen
+named as "christmas2".
